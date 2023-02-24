@@ -4,7 +4,7 @@
 > # ⏲️Contador
 [![](https://visitcount.itsvg.in/api?id=netjox4&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=netjox4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=netjox4&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 > ## 📝Info
 
